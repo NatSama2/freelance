@@ -1,0 +1,23 @@
+{
+  "name": "freelance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./components/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulivega/freelance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulivega/freelance/issues"
+  },
+  "homepage": "https://github.com/paulivega/freelance#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
